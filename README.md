@@ -29,11 +29,11 @@ Currently I am a third year undergraduate student at IIT Guwahati with a Physics
 
 ## Github Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir1739&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mihir1739&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir1739&theme=tokyonight" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mihir1739&theme=tokyonight](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mihir1739&layout=compact&langs_count=8&theme=tokyonight)" />
 </a>
 
-[![Mihir's github activity graph](https://activity-graph.herokuapp.com/graph?username=mihir1739&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mihir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mihir1739&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
