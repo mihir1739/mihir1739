@@ -7,8 +7,8 @@ Currently I am a third year undergraduate student at IIT Guwahati with a Physics
 ## Social Handles
 [![](/assets/LinkedIN.svg)](https://www.linkedin.com/in/mahakaal17/) 
 [![](/assets/Github.png)](https://github.com/mihir1739)
-[![](/assets/Twitter.svg)](https://twitter.com/MihirKu11184650)
-[![](/assets/Reddit.svg)](https://www.reddit.com/user/Acuriousbeing17)
+[![](/assets/Twitter.svg)](https://twitter.com/Mahakaal17_)
+[![](/assets/Reddit.svg)](https://www.reddit.com/user/Schrodinger_Alt)
 
 ## Languages, Frameworks and Tools
 ![](/assets/Archlinux.png)
