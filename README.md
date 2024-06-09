@@ -28,12 +28,8 @@ Currently I am a third year undergraduate student at IIT Guwahati with a Physics
 ![](/assets/redis-original.svg)
 
 ## Github Statistics
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mihir1739&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mihir1739&layout=compact&langs_count=8&theme=tokyonight" />
-</a>
 
 ![Mihir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mihir1739&theme=github)
 
